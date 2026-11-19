@@ -2,3 +2,5 @@ my first git lab
 hello world
 hi 
 Remote change for rebase
+Local change for rebase
+
